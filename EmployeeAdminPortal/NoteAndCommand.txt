@@ -1,0 +1,4 @@
+﻿Database :
+1. add-migration "initial migration"
+2. update-database
+
